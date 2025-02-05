@@ -1,0 +1,15 @@
+/Users/t2024-m0153/Projects/TextRPG/bin/Debug/net6.0/TextRPG
+/Users/t2024-m0153/Projects/TextRPG/bin/Debug/net6.0/TextRPG.deps.json
+/Users/t2024-m0153/Projects/TextRPG/bin/Debug/net6.0/TextRPG.runtimeconfig.json
+/Users/t2024-m0153/Projects/TextRPG/bin/Debug/net6.0/TextRPG.dll
+/Users/t2024-m0153/Projects/TextRPG/bin/Debug/net6.0/TextRPG.pdb
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.csproj.AssemblyReference.cache
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.AssemblyInfoInputs.cache
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.AssemblyInfo.cs
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.csproj.CoreCompileInputs.cache
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.dll
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/refint/TextRPG.dll
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.pdb
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/TextRPG.genruntimeconfig.cache
+/Users/t2024-m0153/Projects/TextRPG/obj/Debug/net6.0/ref/TextRPG.dll
