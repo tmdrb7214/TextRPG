@@ -10,7 +10,7 @@ class Program
         Console.WriteLine("원하시는 이름을 설정해주세요 .");
         name = Console.ReadLine();
 
-        Console.WriteLine("입력하신 이름은 " + name + "입니다 .");
+        Console.WriteLine("입력하신 이름은 " + name + "입니다 .ㅇㅇㅇ");
 
 
         Program newname = new Program();
